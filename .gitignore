@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+
+# IDE project files
+.idea/
+*.iml
+
+# Log / temp files
+*.log
+*.tmp
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+
+# Backup files
+*.bak
+*.swp
+
+# Node.js (if you add JS tooling later)
+node_modules/
+
+# Python (if you add Python scripts later)
+__pycache__/
+*.pyc
+
+# VSCode (if you or others use it)
+.vscode/
